@@ -1,0 +1,161 @@
+order_id,customer_id,order_date,shipping_address,status,total_amount
+1,119,2025-11-13,"274 Jacob Ville, Harveystad, AL 64019",delivered,2048.27
+2,59,2025-11-13,"7677 Christopher Burgs Apt. 404, New Keith, WI 60443",processing,1364.36
+3,90,2025-11-13,"819 Joseph Plains Suite 807, South Curtis, MP 86179",cancelled,3167.73
+4,101,2025-11-13,"4517 Kimberly Freeway, Port Joan, UT 46458",shipped,2873.12
+5,92,2025-11-13,"92330 Patel Ranch Apt. 544, Stephaniehaven, MH 89538",shipped,2108.46
+6,25,2025-11-13,"42232 Poole Trace Suite 729, Courtneyfurt, NV 10399",processing,2106.52
+7,8,2025-11-13,"8457 Murphy Alley, Lake Teresastad, PR 08801",shipped,1105.55
+8,70,2025-11-13,"74545 Ashlee Oval Suite 001, Smithburgh, NV 60337",pending,1471.85
+9,41,2025-11-13,"USNS Forbes, FPO AE 85697",pending,1747.35
+10,75,2025-11-13,"54152 Randy Inlet Apt. 611, East Thomasberg, OR 30148",shipped,3809.38
+11,118,2025-11-13,"516 Tim Forks, Davisville, CT 41572",delivered,2402.77
+12,21,2025-11-13,"21890 Scott Stravenue Apt. 269, Heathland, MH 13669",pending,2065.48
+13,66,2025-11-13,"6523 Newman Gateway Suite 043, Lake Peter, SD 07653",pending,127.6
+14,24,2025-11-13,"6137 Allison Bridge, Sarahberg, MS 74999",pending,3856.02
+15,9,2025-11-13,"1091 Jose Canyon, Port Raymondport, SC 93906",delivered,1681.7
+16,31,2025-11-13,"88924 Kyle Pass Apt. 285, Willisland, ME 92077",shipped,3958.74
+17,114,2025-11-13,"USNS Brown, FPO AE 57449",shipped,814.2
+18,75,2025-11-13,"2102 Frank Key, Garyberg, WA 35728",shipped,1876.99
+19,80,2025-11-13,"6481 Joseph Ports, South Spencerstad, AR 65985",pending,2240.31
+20,85,2025-11-13,"1913 Bradley Wall, East Brandonstad, MS 20172",shipped,572.92
+21,67,2025-11-13,"USS Tran, FPO AP 97581",shipped,2611.02
+22,34,2025-11-13,"5419 Wilson Spring, East Jeffreyhaven, AZ 53051",processing,440.1
+23,92,2025-11-13,"5187 Miguel Highway Suite 937, Brittanyfort, WI 26115",shipped,4240.83
+24,34,2025-11-13,"06038 Fields Square, West Aaronfurt, PR 97242",shipped,1081.41
+25,86,2025-11-13,"7024 Bradley Fort, Haynesstad, NH 98529",delivered,1908.84
+26,59,2025-11-13,"619 Ryan Curve, West Jose, MD 52006",shipped,1316.37
+27,97,2025-11-13,"4313 Kimberly Prairie Apt. 212, Owenschester, DE 70745",delivered,908.69
+28,2,2025-11-13,"7411 Lindsey Hollow Apt. 352, Lake Johnstad, MO 67801",shipped,1241.64
+29,73,2025-11-13,"67883 Steven Unions, North Alexander, MP 29636",cancelled,499.98
+30,10,2025-11-13,"199 Lowery Club Apt. 137, North Rebecca, MP 43957",shipped,1763.86
+31,65,2025-11-13,"USS Jackson, FPO AP 57275",processing,3936.69
+32,120,2025-11-13,"6253 Joshua Mission, North Christina, RI 32716",shipped,4020.27
+33,9,2025-11-13,"14626 Dawn Union Apt. 806, Timothyfort, MI 74642",delivered,2984.82
+34,48,2025-11-13,"59304 Lindsey Mountains, Katiebury, GA 13625",processing,3529.17
+35,57,2025-11-13,"96522 Brittany Valley, Robintown, VT 92324",delivered,3402.28
+36,91,2025-11-13,"378 Thompson Camp, North Jessebury, AK 69503",shipped,3787.77
+37,104,2025-11-13,"52500 Brenda Divide, Port Aliciastad, CA 49468",delivered,5561.31
+38,2,2025-11-13,"4522 Conner Oval, Grantside, UT 80941",delivered,2009.15
+39,71,2025-11-13,"4422 Stacy Ports, Rosalesshire, AZ 24366",processing,2927.96
+40,85,2025-11-13,"PSC 9391, Box 7251, APO AE 45958",processing,1313.07
+41,113,2025-11-13,"570 Clark Square, West Jonathanville, VA 00668",processing,1969.92
+42,15,2025-11-13,"67658 Garcia Neck Apt. 271, West Andrewview, CT 10226",delivered,1060.02
+43,96,2025-11-13,"181 Wheeler Ridges, Bushchester, SD 22127",shipped,4023.38
+44,35,2025-11-13,"53368 Guerrero Hills, North Brandon, OK 72546",processing,1471.23
+45,27,2025-11-13,"61497 Collin Ford Apt. 417, West Kristenfort, NM 87144",delivered,3102.92
+46,27,2025-11-13,"56527 Jose Mountain Suite 349, East Karenville, CO 88075",delivered,350.72
+47,110,2025-11-13,"068 Sheppard Spur, Armstrongbury, NJ 39672",processing,2942.87
+48,63,2025-11-13,"PSC 0898, Box 9921, APO AA 23160",processing,2001.84
+49,117,2025-11-13,"20616 Wendy Road, Port Brooke, MD 95803",delivered,5748.48
+50,12,2025-11-13,"685 Stone Well Apt. 998, Rodriguezberg, FL 74765",delivered,1519.23
+51,107,2025-11-13,"91485 Baker Shoal, Armstrongfort, AZ 23071",processing,2952.71
+52,1,2025-11-13,"65307 Prince Brooks Suite 444, Garrisonville, VI 30379",shipped,370.02
+53,17,2025-11-13,"Unit 7546 Box 9137, DPO AE 53869",delivered,2415.45
+54,34,2025-11-13,"82148 Taylor Vista Apt. 233, East Antonioton, PW 47736",processing,3221.85
+55,57,2025-11-13,"610 Nathan Ranch Suite 279, Maxview, WA 90790",shipped,2484.67
+56,55,2025-11-13,"93333 Pearson Passage, Port Kimberlytown, NJ 17843",shipped,3342.06
+57,15,2025-11-13,"49446 York Mount, Jefferyport, TX 68742",pending,1225.81
+58,114,2025-11-13,"85899 Evans Coves, Brownview, SC 43117",delivered,2448.91
+59,20,2025-11-13,"28309 Guerrero Springs Apt. 074, Rebeccafurt, MS 97065",shipped,1395.41
+60,107,2025-11-13,"3875 Bruce Ville, West Connor, DC 97614",shipped,1838.72
+61,71,2025-11-13,"513 Walker Well, Robertmouth, MN 34653",processing,595.78
+62,17,2025-11-13,"0999 Thomas Fields, Port Erinhaven, ME 54647",pending,3136.11
+63,47,2025-11-13,"56972 Huffman Falls, South Marvinburgh, MD 83666",delivered,488.21
+64,102,2025-11-13,"92712 Schultz Lodge, Sanfordfurt, AL 05445",cancelled,3114.52
+65,6,2025-11-13,"8300 Jeremy Wells, Larryville, MS 66474",delivered,1046.1
+66,27,2025-11-13,"4789 Hamilton Spur, West Wendy, NM 47588",delivered,257.68
+67,86,2025-11-13,"33230 David Station Apt. 648, New Virginiaville, SD 03088",processing,1873.41
+68,100,2025-11-13,"1847 Jamie Spur Apt. 461, Cindyberg, MT 14252",shipped,921.63
+69,112,2025-11-13,"17393 Decker Flats Suite 642, New Tylerborough, UT 63502",shipped,2236.06
+70,80,2025-11-13,"97218 Jennifer Courts, Dawnmouth, LA 35120",delivered,1744.79
+71,119,2025-11-13,"45561 Melissa Cape, Port Devonburgh, MA 47362",delivered,985.8
+72,111,2025-11-13,"USNV Johns, FPO AE 49341",processing,2401.34
+73,103,2025-11-13,"7467 Banks Union Apt. 120, North Robert, OR 63766",delivered,322.54
+74,113,2025-11-13,"659 Michelle Villages, South Samantha, DE 54408",shipped,264.14
+75,23,2025-11-13,"89935 Ryan Stream Apt. 756, Port Margaret, MH 80836",delivered,1059.45
+76,43,2025-11-13,"772 Karen Islands, West Tara, AR 66945",delivered,2063.76
+77,53,2025-11-13,"17797 Melissa Mission Suite 170, South Robertside, OH 00523",delivered,393.86
+78,111,2025-11-13,"837 Cox Center Apt. 758, Moranstad, VT 59815",delivered,2866.56
+79,32,2025-11-13,"55488 Park Cape, South Donald, VT 97823",processing,630.28
+80,101,2025-11-13,"16373 Rodriguez Mall, Lake Maryshire, DE 59549",delivered,1119.07
+81,49,2025-11-13,"0808 Roberson Orchard, Lake Beth, VA 17328",delivered,2297.34
+82,110,2025-11-13,"669 Joshua Junctions Suite 722, Morrisonhaven, ME 92447",shipped,589.77
+83,26,2025-11-13,"39452 William Square, Jenniferstad, OH 63464",delivered,1385.46
+84,59,2025-11-13,"USCGC Craig, FPO AP 37978",shipped,1246.06
+85,106,2025-11-13,"106 Brian Centers, West Karen, GA 38068",delivered,891.95
+86,30,2025-11-13,"438 Michael Mission, New Mirandaside, VI 29901",processing,3023.52
+87,85,2025-11-13,"406 Butler Turnpike, Tammyton, AL 97975",processing,481.76
+88,43,2025-11-13,"59893 Kelly Fall Apt. 228, South Billyview, OH 35135",processing,1531.21
+89,9,2025-11-13,"57202 Carlson Trail Suite 798, Charlesmouth, NC 29331",cancelled,3712.03
+90,36,2025-11-13,"8861 Walker Forest, Markport, IL 99153",shipped,2068.87
+91,66,2025-11-13,"57399 Susan Springs, Patrickville, MS 34132",shipped,2497.23
+92,108,2025-11-13,"877 Kenneth Run Apt. 581, East Teresaside, ND 01461",shipped,3322.74
+93,4,2025-11-13,"613 Lucas Cliffs, North Stephen, MA 05466",processing,493.44
+94,34,2025-11-13,"193 Russell Mission Suite 650, Nunezside, AL 84573",processing,1481.98
+95,34,2025-11-13,"158 Keith Spur, Catherineport, WV 57868",pending,4752.16
+96,77,2025-11-13,"2832 Robles Vista, Susanberg, ME 89274",shipped,2593.88
+97,94,2025-11-13,"Unit 5088 Box 2100, DPO AP 78705",delivered,2216.64
+98,56,2025-11-13,"3536 Eugene Forges, Jamesburgh, TN 74857",delivered,1414.1
+99,66,2025-11-13,"814 John Flat Suite 552, North Justin, CA 25863",processing,81.89
+100,116,2025-11-13,"929 Aguirre Meadow Apt. 053, Lake Jodi, NE 36765",shipped,1912.8
+101,33,2025-11-13,"7754 Arnold Extensions Apt. 428, West Jessica, SC 10523",pending,2613.37
+102,56,2025-11-13,"969 Rebecca Plaza, Amyside, NJ 86210",pending,535.76
+103,119,2025-11-13,"427 Randy Parkway, Lake Johnburgh, WV 67889",delivered,1188.0
+104,88,2025-11-13,"750 Kathleen Fort, West Miketon, TN 27603",delivered,4261.4
+105,95,2025-11-13,"7005 Jane Pike Suite 498, South Desiree, MN 77529",delivered,216.56
+106,26,2025-11-13,"3865 Tucker Orchard Apt. 827, East Chris, SD 37307",shipped,958.16
+107,9,2025-11-13,"136 Cortez Orchard Suite 739, Lake Martha, AK 32439",delivered,1019.34
+108,118,2025-11-13,"80920 Jonathan Falls, Greeneshire, SC 02941",shipped,2121.76
+109,41,2025-11-13,"37977 Jeffrey Loop Apt. 929, Garymouth, NH 78689",delivered,3667.92
+110,16,2025-11-13,"10388 Serrano Rest Apt. 279, Port Amandaville, CO 63709",delivered,2390.59
+111,39,2025-11-13,"PSC 8068, Box 6508, APO AA 30580",shipped,3294.07
+112,86,2025-11-13,"9916 Jonathan Trafficway Apt. 149, Scotttown, VT 97972",shipped,2239.88
+113,52,2025-11-13,"063 Ortiz Coves, South Denise, KS 34750",delivered,910.71
+114,71,2025-11-13,"463 Arnold Point Suite 258, Kingport, OK 45636",processing,948.54
+115,54,2025-11-13,"137 Craig Pass, Hartmanside, RI 91865",delivered,4404.04
+116,49,2025-11-13,"012 Frost Mews Apt. 143, Christopherton, VA 50875",delivered,4874.9
+117,116,2025-11-13,"902 Gonzales Flats Suite 309, New Gavin, AZ 47652",processing,1971.93
+118,73,2025-11-13,"46566 April Street, North Andreaside, PW 76907",shipped,871.68
+119,71,2025-11-13,"USNV Perez, FPO AE 60107",delivered,3046.34
+120,39,2025-11-13,"68181 Morgan Crescent Suite 894, Churchshire, NJ 32387",processing,2972.17
+121,56,2025-11-13,"USCGC Maldonado, FPO AP 04085",delivered,96.2
+122,78,2025-11-13,"335 Moses Path Apt. 434, South Emilymouth, CA 73187",delivered,1696.98
+123,60,2025-11-13,"94237 Jimmy Garden Suite 333, Port Christine, FL 14484",shipped,1258.18
+124,87,2025-11-13,"080 Watson Island Suite 947, Port Sabrina, KY 52651",processing,3092.83
+125,61,2025-11-13,"678 Wayne Lock, South Tiffany, UT 68423",delivered,2663.67
+126,102,2025-11-13,"369 Mark Ridge, Jacobview, IA 35812",delivered,4020.61
+127,85,2025-11-13,"76365 Dickerson Harbors Suite 292, Port Cory, KY 31408",pending,3139.08
+128,66,2025-11-13,"27026 Taylor Vista, Kristenport, KS 74181",delivered,1538.57
+129,80,2025-11-13,"203 Woods Roads, South Julieview, MN 47727",shipped,442.92
+130,105,2025-11-13,"USNV Cooper, FPO AA 16391",cancelled,2296.71
+131,31,2025-11-13,"982 Kelly Spring, Hamptonmouth, FM 10778",delivered,3703.94
+132,29,2025-11-13,"56996 Christian Junctions, West Logan, LA 93618",delivered,4308.03
+133,19,2025-11-13,"5987 Jackson Walk Apt. 234, East Garrettville, CT 08862",pending,4343.56
+134,32,2025-11-13,"68114 Christopher Loaf, Jeromeport, NV 82615",cancelled,1263.88
+135,79,2025-11-13,"05577 Dunn Dale, New Carla, SC 98662",delivered,140.18
+136,10,2025-11-13,"7831 Parker Loop Suite 240, New Lisaberg, MI 38087",shipped,1596.5
+137,114,2025-11-13,"4064 Laura Plaza Suite 368, Fosterburgh, VT 97116",delivered,5585.06
+138,25,2025-11-13,"1638 Mitchell Summit, Robertland, HI 18408",delivered,3923.94
+139,50,2025-11-13,"9735 Edwin Place Apt. 214, Davidmouth, VA 01576",shipped,3110.15
+140,32,2025-11-13,"56475 Terry Bypass Suite 120, Kimberlyland, ND 62124",processing,1314.9
+141,89,2025-11-13,"PSC 4601, Box 3673, APO AP 04893",pending,1857.52
+142,97,2025-11-13,"376 Mayer Estate, Lake Sharonhaven, DE 33703",delivered,1211.62
+143,114,2025-11-13,"31365 Gary Harbor Apt. 630, New Kristenfort, UT 78647",processing,1528.96
+144,55,2025-11-13,"71950 Michael Drives, East Tonymouth, OH 84996",processing,1381.04
+145,103,2025-11-13,"306 Ramsey Glen Apt. 778, Amyfort, ID 74779",cancelled,1317.58
+146,67,2025-11-13,"9821 Shannon Viaduct Suite 857, Port Danafurt, VA 24819",shipped,1678.04
+147,72,2025-11-13,"351 Lee Springs Suite 829, Marcusmouth, DE 13117",processing,3760.45
+148,109,2025-11-13,"03173 Anthony Row, Barretthaven, RI 92423",processing,3566.92
+149,18,2025-11-13,"103 Hebert Village, South Laurieton, MN 73641",delivered,671.33
+150,86,2025-11-13,"094 Jessica Village Suite 138, North Jessicaside, MS 25333",shipped,3849.9
+151,72,2025-11-13,"861 Craig Squares, Andradeburgh, WY 24145",shipped,377.52
+152,97,2025-11-13,"975 Pierce Islands, Robertchester, GU 95641",delivered,2978.21
+153,79,2025-11-13,"8457 Moyer Alley, West Caitlinhaven, DC 40063",delivered,3409.39
+154,115,2025-11-13,"Unit 3504 Box 8889, DPO AP 20779",shipped,574.0
+155,107,2025-11-13,"45933 Shepherd Course, Carrollborough, VA 10619",delivered,389.1
+156,58,2025-11-13,"9194 Jessica Ports, Millerton, PW 44330",delivered,3694.27
+157,96,2025-11-13,"39060 Warren Island Apt. 583, North Emily, MO 58908",delivered,1220.47
+158,58,2025-11-13,"64622 Miller Ports, New Raymondland, MO 66275",processing,1150.68
+159,32,2025-11-13,"8376 Ann Street, East Charles, WI 56870",delivered,2724.32
+160,36,2025-11-13,"PSC 1166, Box 5535, APO AA 78341",delivered,2434.63
